@@ -1,0 +1,27 @@
+{
+  "name": "mangodb-client",
+  "version": "1.0.0",
+  "description": "Powerful Node.js client for Mangodb",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joeledwards/node-mangodb-client.git"
+  },
+  "keywords": [
+    "mangodb",
+    "sharting",
+    "big-data",
+    "scalability",
+    "confidence",
+    "reliability"
+  ],
+  "author": "Joel Edwards <joeledwards@gmail.com>",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/joeledwards/node-mangodb-client/issues"
+  },
+  "homepage": "https://github.com/joeledwards/node-mangodb-client#readme"
+}
