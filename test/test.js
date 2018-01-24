@@ -1,5 +1,5 @@
 const assert = require('assert')
-const mango = require('./lib/index')()
+const mango = require('../lib/index')()
 
 const CORRECT_VALUE = 1
 
